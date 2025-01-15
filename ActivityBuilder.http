@@ -1,0 +1,6 @@
+@ActivityBuilder_HostAddress = http://localhost:5172
+
+GET {{ActivityBuilder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
